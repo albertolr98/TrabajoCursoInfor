@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+c:\users\alberto\desktop\informatizacion industrial\clase 13_3_19\clase 13_3_19\main.cpp(4): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código...
+  Clase 13_3_19.vcxproj -> C:\Users\Alberto\Desktop\informatizacion industrial\Clase 13_3_19\Debug\Clase 13_3_19.exe

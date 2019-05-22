@@ -1,0 +1,3 @@
+﻿  centroide.c
+c:\users\alberto\desktop\informatizacion industrial\centroide\centroide\centroide.c(30): warning C4098: 'main': función 'void' que devuelve un valor
+  centroide.vcxproj -> C:\Users\Alberto\Desktop\informatizacion industrial\centroide\Debug\centroide.exe

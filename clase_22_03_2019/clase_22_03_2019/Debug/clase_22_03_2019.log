@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alberto\desktop\informatizacionindustrial\clase_22_03_2019\clase_22_03_2019\main.cpp(33): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+main.obj : error LNK2019: símbolo externo "public: __thiscall Esfera::Esfera(void)" (??0Esfera@@QAE@XZ) sin resolver al que se hace referencia en la función _main
+C:\Users\Alberto\Desktop\informatizacionindustrial\clase_22_03_2019\Debug\clase_22_03_2019.exe : fatal error LNK1120: 1 externos sin resolver

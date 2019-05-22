@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\alberto\desktop\informatizacion industrial\clase_20_03_2019\clase_20_03_2019\main.cpp(18): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  utils_cpp.cpp
+c:\users\alberto\desktop\informatizacion industrial\clase_20_03_2019\clase_20_03_2019\utils_cpp.cpp(97): error C2079: 'pi' utiliza class 'std::basic_ifstream<char,std::char_traits<char>>' sin definir
+  Generando código...
